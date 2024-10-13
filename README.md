@@ -29,6 +29,8 @@ The topics already studied correspond to their python script name. Here there is
 - electrical-force-repulsion.py
 - electromagnetic-field.py
 - force.py
+- gravitational-field.py
+- gravitational-force.py
 - hydrostatic-pressure.py
 - interference.py
 - kinetic-energy.py
